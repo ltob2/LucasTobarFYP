@@ -1,5 +1,5 @@
 This is the readme for the Final Year Project: 
-'Modelling the oscillatory response of neurons to current stimulation in the rodent brain'
+'Modelling the Brain’s Oscillatory Response to Stimulation in the Visual Cortex'
 Lucas Tobar, 27860221, Department of Electrical and Computer Systems Engineering
 Please refer to the Final Report for more detail.
 
